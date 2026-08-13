@@ -1,13 +1,14 @@
 # Privacy policy — XYNOMEX watch faces
 
-The published privacy policy for the XYNOMEX Wear OS watch faces:
-Amber Analog, Art Deco, Aurora, Bauhaus, Lightning, Meridian, Nixie, Pixel,
-Reactor, Roadster and Terminal.
+The published privacy policy for the XYNOMEX Wear OS watch faces.
 
 **Live page:** https://xynomex.github.io/watchf-privacy/
 
-These watch faces declare no Android permissions, contain no executable code,
-and collect, store and transmit nothing.
+It covers the whole catalogue rather than naming individual faces, so publishing
+a new watch face needs no change here. That holds as long as every face stays
+permission-free and collection-free — which is inherent to Watch Face Format,
+since the packages contain only images and layout definitions and no executable
+code.
 
 The page is generated — edit the source in the watch-face workspace
 (`publishing/tools/brand.json` + `gen-privacy.js`) and copy the output here,
